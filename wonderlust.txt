@@ -1,0 +1,3 @@
+username- Muskan14
+password- admin123
+mongodb+srv://Muskan14:admin123@cluster0.fk2vjko.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
